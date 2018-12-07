@@ -1,0 +1,3 @@
+- [ ] Cooking
+- [ ] watch movies
+- [ ] go for a walk
