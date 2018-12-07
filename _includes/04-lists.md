@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] Cooking
+- [ ] watch movies
+- [ ] go for a walk
